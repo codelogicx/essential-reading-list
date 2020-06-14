@@ -8,7 +8,7 @@
   
 
 ## Database indexes
-  - 
+  - [Database How to work optimally with relational databases]
   
   
 
@@ -25,7 +25,7 @@
    [Common MySQL Queries]: <http://www.artfulsoftware.com/infotree/queries.php>
    
    
-   [Understanding V8’s Bytecode]: <https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775>
+   [Database How to work optimally with relational databases]: <https://milapneupane.com.np/2019/07/06/how-to-work-optimally-with-relational-databases/>
    [Firing up the Ignition interpreter]: <https://v8.dev/blog/ignition-interpreter>
    [Digging into the TurboFan JIT]: <https://v8.dev/blog/turbofan-jit>
    [An Introduction to Speculative Optimization in V8]: <https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8>
