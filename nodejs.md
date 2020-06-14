@@ -9,6 +9,10 @@
   - [Firing up the Ignition interpreter]
   - [Digging into the TurboFan JIT]
   - [An Introduction to Speculative Optimization in V8]
+  - [Node.js Internals : Part 1]
+  - [Node.js Internals : Part 2]
+  - [Node.js Internals : Part 3]
+  - [Node.js Internals : Part 4]
 
 ## Optimizations
   - [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers]
@@ -32,4 +36,8 @@
    [An Introduction to Speculative Optimization in V8]: <https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8>
    [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers]: <https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/>
    [Deep Dive Into Node.js Module Architecture]: <https://itnext.io/deep-dive-into-node-js-module-architecture-b80fbd22dacb>
+   [Node.js Internals : Part 1]: <https://medium.com/softup-technologies/node-js-internals-an-introduction-to-nodes-runtime-and-architecture-d6ec295c05ab>
+   [Node.js Internals : Part 2]: <https://medium.com/softup-technologies/node-js-internals-libuv-and-the-event-loop-behind-the-curtain-30708c5ca83>
+   [Node.js Internals : Part 3]:<https://medium.com/softup-technologies/node-js-internals-event-loop-in-action-59cde8ff7e8d>
+   [Node.js Internals : Part 4]:<https://medium.com/softup-technologies/node-js-internals-not-everything-happens-on-the-thread-pool-a14d0a286efb>
    
