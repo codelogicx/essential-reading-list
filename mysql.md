@@ -13,7 +13,13 @@
   
 
 ## MYSQL EXPLAIN
-  - 
+
+
+## Full Text search
+  - [Full Text search : Article 1]
+  - [Full Text search : Article 2]
+  - [Full Text search : Article 3]
+  - [Full Text search gotchas]
   
 
 
@@ -32,5 +38,9 @@
    [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers]: <https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/>
    [Deep Dive Into Node.js Module Architecture]: <https://itnext.io/deep-dive-into-node-js-module-architecture-b80fbd22dacb>
    
+   [Full Text search : Article 1]: <https://www.percona.com/blog/2013/02/26/myisam-vs-innodb-full-text-search-in-mysql-5-6-part-1/>
+   [Full Text search : Article 2]: <https://www.percona.com/blog/2013/03/04/innodb-mysql-full-text-search-in-mysql-5-6-part-2-the-queries/>
+   [Full Text search : Article 3]: <https://www.percona.com/blog/2013/07/31/innodb-full-text-search-in-mysql-5-6-part-3/>
+   [Full Text search gotchas]: <https://www.percona.com/blog/2018/04/04/pattern-matching-queries-vs-fulltext-indexes//>
 
 
