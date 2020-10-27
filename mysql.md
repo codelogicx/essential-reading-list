@@ -9,6 +9,7 @@
 
 ## Database indexes
   - [Database How to work optimally with relational databases]
+  - [Use the Index Luke]
   
   
 
@@ -32,11 +33,8 @@
    
    
    [Database How to work optimally with relational databases]: <https://milapneupane.com.np/2019/07/06/how-to-work-optimally-with-relational-databases/>
-   [Firing up the Ignition interpreter]: <https://v8.dev/blog/ignition-interpreter>
-   [Digging into the TurboFan JIT]: <https://v8.dev/blog/turbofan-jit>
-   [An Introduction to Speculative Optimization in V8]: <https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8>
-   [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers]: <https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/>
-   [Deep Dive Into Node.js Module Architecture]: <https://itnext.io/deep-dive-into-node-js-module-architecture-b80fbd22dacb>
+   [Use the Index Luke]: <https://use-the-index-luke.com/>
+   
    
    [Full Text search : Article 1]: <https://www.percona.com/blog/2013/02/26/myisam-vs-innodb-full-text-search-in-mysql-5-6-part-1/>
    [Full Text search : Article 2]: <https://www.percona.com/blog/2013/03/04/innodb-mysql-full-text-search-in-mysql-5-6-part-2-the-queries/>
